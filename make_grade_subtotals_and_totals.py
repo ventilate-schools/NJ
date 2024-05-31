@@ -47,7 +47,11 @@ def analyze_directory(base_path):
     # Aggregate statistics for the entire directory tree
     if total_grades:
         total_freq = {grade: total_grades.count(grade) for grade in set(total_grades)}
-        write_html(os.path.join(base_path, 'grade.html'), total_freq, 'NJ')
+        write_html(os.path.join(base_path, 'grade.html'), total_freq, 'Mercer')
 
-# Run the analysis starting from the current directory
-analyze_directory(os.getcwd())
+# Run the analysis for Mercer county for now until other Grades are added
+analyze_directory(os.getcwd() + "/Mercer")
+
+import shutil
+
+shutil.copyfile("Mercer/grade.html", "grade.html")
