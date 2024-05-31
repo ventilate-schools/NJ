@@ -12,7 +12,7 @@ title: Grant Elementary School
 
 **Students**: 574
 
-**Website**: https://www.trenton.k12.nj.us/Grant.cfm
+**Website**: <https://www.trenton.k12.nj.us/Grant.cfm>
 
 **Phone**: TODO
 

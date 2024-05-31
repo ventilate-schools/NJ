@@ -12,7 +12,7 @@ title: Eldridge Park Elementary School
 
 **Students**: 500
 
-**Website**: https://www.ltps.org/EldridgePark
+**Website**: <https://www.ltps.org/EldridgePark>
 
 **Phone**: TODO
 

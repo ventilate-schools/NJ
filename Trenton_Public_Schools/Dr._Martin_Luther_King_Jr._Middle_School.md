@@ -12,7 +12,7 @@ title: Dr. Martin Luther King Jr. Middle School
 
 **Students**: 800
 
-**Website**: https://www.trenton.k12.nj.us/MLKJrMiddle.cfm
+**Website**: <https://www.trenton.k12.nj.us/MLKJrMiddle.cfm>
 
 **Phone**: TODO
 

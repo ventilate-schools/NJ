@@ -12,7 +12,7 @@ title: Town Center Elementary School
 
 **Students**: 500
 
-**Website**: https://www.west-windsor-plainsboro.k12.nj.us/towncenter
+**Website**: <https://www.west-windsor-plainsboro.k12.nj.us/towncenter>
 
 **Phone**: TODO
 

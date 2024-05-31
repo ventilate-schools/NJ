@@ -12,7 +12,7 @@ title: Lawrenceville Elementary School
 
 **Students**: 400
 
-**Website**: https://www.ltps.org/Lawrenceville
+**Website**: <https://www.ltps.org/Lawrenceville>
 
 **Phone**: TODO
 

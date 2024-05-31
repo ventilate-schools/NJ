@@ -12,7 +12,7 @@ title: Harrison Elementary School
 
 **Students**: 223
 
-**Website**: https://www.trenton.k12.nj.us/Harrison.cfm
+**Website**: <https://www.trenton.k12.nj.us/Harrison.cfm>
 
 **Phone**: TODO
 

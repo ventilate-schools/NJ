@@ -12,7 +12,7 @@ title: Riverside Elementary School
 
 **Students**: 375
 
-**Website**: https://www.princetonk12.org/Riverside
+**Website**: <https://www.princetonk12.org/Riverside>
 
 **Phone**: TODO
 

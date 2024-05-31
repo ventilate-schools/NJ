@@ -12,7 +12,7 @@ title: Grace N. Rogers Elementary School
 
 **Students**: 600
 
-**Website**: https://www.ewrsd.org/Rogers
+**Website**: <https://www.ewrsd.org/Rogers>
 
 **Phone**: TODO
 

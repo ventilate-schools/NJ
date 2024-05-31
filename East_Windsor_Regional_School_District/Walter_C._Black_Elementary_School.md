@@ -12,7 +12,7 @@ title: Walter C. Black Elementary School
 
 **Students**: 500
 
-**Website**: https://www.ewrsd.org/Black
+**Website**: <https://www.ewrsd.org/Black>
 
 **Phone**: TODO
 

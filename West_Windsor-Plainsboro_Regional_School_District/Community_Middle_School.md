@@ -12,7 +12,7 @@ title: Community Middle School
 
 **Students**: 1000
 
-**Website**: https://www.west-windsor-plainsboro.k12.nj.us/community
+**Website**: <https://www.west-windsor-plainsboro.k12.nj.us/community>
 
 **Phone**: TODO
 

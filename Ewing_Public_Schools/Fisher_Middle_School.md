@@ -12,7 +12,7 @@ title: Fisher Middle School
 
 **Students**: 800
 
-**Website**: https://www.ewing.k12.nj.us/Fisher
+**Website**: <https://www.ewing.k12.nj.us/Fisher>
 
 **Phone**: TODO
 

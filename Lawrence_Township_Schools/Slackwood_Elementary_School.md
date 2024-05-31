@@ -12,7 +12,7 @@ title: Slackwood Elementary School
 
 **Students**: 300
 
-**Website**: https://www.ltps.org/Slackwood
+**Website**: <https://www.ltps.org/Slackwood>
 
 **Phone**: TODO
 

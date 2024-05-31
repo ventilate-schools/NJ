@@ -12,7 +12,7 @@ title: Lawrence Intermediate School
 
 **Students**: 800
 
-**Website**: https://www.ltps.org/LIS
+**Website**: <https://www.ltps.org/LIS>
 
 **Phone**: TODO
 

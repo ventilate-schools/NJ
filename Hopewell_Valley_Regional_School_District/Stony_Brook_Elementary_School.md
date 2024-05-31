@@ -12,7 +12,7 @@ title: Stony Brook Elementary School
 
 **Students**: 450
 
-**Website**: https://www.hvrsd.org/StonyBrook
+**Website**: <https://www.hvrsd.org/StonyBrook>
 
 **Phone**: TODO
 

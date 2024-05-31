@@ -12,7 +12,7 @@ title: Steinert High School East
 
 **Students**: 1400
 
-**Website**: https://www.htsdnj.org/East
+**Website**: <https://www.htsdnj.org/East>
 
 **Phone**: TODO
 

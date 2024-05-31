@@ -12,7 +12,7 @@ title: Timberlane Middle School
 
 **Students**: 1000
 
-**Website**: https://www.hvrsd.org/Timberlane
+**Website**: <https://www.hvrsd.org/Timberlane>
 
 **Phone**: TODO
 

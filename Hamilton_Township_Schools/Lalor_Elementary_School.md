@@ -12,7 +12,7 @@ title: Lalor Elementary School
 
 **Students**: 320
 
-**Website**: https://www.htsdnj.org/Lalor
+**Website**: <https://www.htsdnj.org/Lalor>
 
 **Phone**: TODO
 

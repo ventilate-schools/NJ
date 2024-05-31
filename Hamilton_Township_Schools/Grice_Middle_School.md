@@ -12,7 +12,7 @@ title: Grice Middle School
 
 **Students**: 800
 
-**Website**: https://www.htsdnj.org/Grice
+**Website**: <https://www.htsdnj.org/Grice>
 
 **Phone**: TODO
 

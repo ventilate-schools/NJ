@@ -12,7 +12,7 @@ title: Johnson Park Elementary School
 
 **Students**: 450
 
-**Website**: https://www.princetonk12.org/JohnsonPark
+**Website**: <https://www.princetonk12.org/JohnsonPark>
 
 **Phone**: TODO
 

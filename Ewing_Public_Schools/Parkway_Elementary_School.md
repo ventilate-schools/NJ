@@ -12,7 +12,7 @@ title: Parkway Elementary School
 
 **Students**: 500
 
-**Website**: https://www.ewing.k12.nj.us/Parkway
+**Website**: <https://www.ewing.k12.nj.us/Parkway>
 
 **Phone**: TODO
 

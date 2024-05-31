@@ -160,6 +160,8 @@ def generate_markdown_by_index(row):
         # Loop through keys per school
         for key, value in row.items():
             if key not in ['district_name', 'school_name']:
+                if str(value).startswith("http"):
+                    value = "<" + value + ">"
                 file.write(f"**{key.replace('_', ' ').title()}**: {value}\n\n")
 
         file.write(f"**School's overall airborne virus protection grade (0-5)**: 0\n\n")

@@ -12,7 +12,7 @@ title: Trenton Ninth Grade Academy
 
 **Students**: 830
 
-**Website**: https://www.trenton.k12.nj.us/NinthGradeAcademy.cfm
+**Website**: <https://www.trenton.k12.nj.us/NinthGradeAcademy.cfm>
 
 **Phone**: TODO
 

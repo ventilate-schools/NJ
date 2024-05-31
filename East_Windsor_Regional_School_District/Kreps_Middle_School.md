@@ -12,7 +12,7 @@ title: Kreps Middle School
 
 **Students**: 1200
 
-**Website**: https://www.ewrsd.org/Kreps
+**Website**: <https://www.ewrsd.org/Kreps>
 
 **Phone**: TODO
 

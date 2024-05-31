@@ -12,7 +12,7 @@ title: Morgan Elementary School
 
 **Students**: 360
 
-**Website**: https://www.htsdnj.org/Morgan
+**Website**: <https://www.htsdnj.org/Morgan>
 
 **Phone**: TODO
 

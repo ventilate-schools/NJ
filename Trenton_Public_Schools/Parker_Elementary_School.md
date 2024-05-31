@@ -12,7 +12,7 @@ title: Parker Elementary School
 
 **Students**: 500
 
-**Website**: https://www.trenton.k12.nj.us/Parker.cfm
+**Website**: <https://www.trenton.k12.nj.us/Parker.cfm>
 
 **Phone**: TODO
 

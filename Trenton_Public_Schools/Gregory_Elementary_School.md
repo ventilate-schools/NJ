@@ -12,7 +12,7 @@ title: Gregory Elementary School
 
 **Students**: 447
 
-**Website**: https://www.trenton.k12.nj.us/Gregory.cfm
+**Website**: <https://www.trenton.k12.nj.us/Gregory.cfm>
 
 **Phone**: TODO
 

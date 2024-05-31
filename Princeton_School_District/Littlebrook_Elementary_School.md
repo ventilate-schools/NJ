@@ -12,7 +12,7 @@ title: Littlebrook Elementary School
 
 **Students**: 350
 
-**Website**: https://www.princetonk12.org/Littlebrook
+**Website**: <https://www.princetonk12.org/Littlebrook>
 
 **Phone**: TODO
 

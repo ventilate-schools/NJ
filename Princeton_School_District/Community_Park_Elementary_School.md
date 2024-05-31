@@ -12,7 +12,7 @@ title: Community Park Elementary School
 
 **Students**: 400
 
-**Website**: https://www.princetonk12.org/CommunityPark
+**Website**: <https://www.princetonk12.org/CommunityPark>
 
 **Phone**: TODO
 

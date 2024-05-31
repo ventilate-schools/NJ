@@ -12,7 +12,7 @@ title: Hamilton High School West
 
 **Students**: 1200
 
-**Website**: https://www.htsdnj.org/West
+**Website**: <https://www.htsdnj.org/West>
 
 **Phone**: TODO
 

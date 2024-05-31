@@ -12,7 +12,7 @@ title: Perry L. Drew Elementary School
 
 **Students**: 800
 
-**Website**: https://www.ewrsd.org/Drew
+**Website**: <https://www.ewrsd.org/Drew>
 
 **Phone**: TODO
 

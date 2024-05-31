@@ -12,7 +12,7 @@ title: Mercerville Elementary School
 
 **Students**: 370
 
-**Website**: https://www.htsdnj.org/Mercerville
+**Website**: <https://www.htsdnj.org/Mercerville>
 
 **Phone**: TODO
 

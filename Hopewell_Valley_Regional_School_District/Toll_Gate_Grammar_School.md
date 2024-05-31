@@ -12,7 +12,7 @@ title: Toll Gate Grammar School
 
 **Students**: 400
 
-**Website**: https://www.hvrsd.org/TollGate
+**Website**: <https://www.hvrsd.org/TollGate>
 
 **Phone**: TODO
 

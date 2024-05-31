@@ -12,7 +12,7 @@ title: Hopewell Valley Central High School
 
 **Students**: 1200
 
-**Website**: https://www.hvrsd.org/CentralHS
+**Website**: <https://www.hvrsd.org/CentralHS>
 
 **Phone**: TODO
 

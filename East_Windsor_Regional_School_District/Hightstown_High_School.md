@@ -12,7 +12,7 @@ title: Hightstown High School
 
 **Students**: 1500
 
-**Website**: https://www.ewrsd.org/HHS
+**Website**: <https://www.ewrsd.org/HHS>
 
 **Phone**: TODO
 

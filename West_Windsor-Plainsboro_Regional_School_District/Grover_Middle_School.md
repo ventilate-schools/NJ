@@ -12,7 +12,7 @@ title: Grover Middle School
 
 **Students**: 900
 
-**Website**: https://www.west-windsor-plainsboro.k12.nj.us/grover
+**Website**: <https://www.west-windsor-plainsboro.k12.nj.us/grover>
 
 **Phone**: TODO
 

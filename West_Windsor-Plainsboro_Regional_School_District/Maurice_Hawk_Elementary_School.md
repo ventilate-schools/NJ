@@ -12,7 +12,7 @@ title: Maurice Hawk Elementary School
 
 **Students**: 600
 
-**Website**: https://www.west-windsor-plainsboro.k12.nj.us/hawk
+**Website**: <https://www.west-windsor-plainsboro.k12.nj.us/hawk>
 
 **Phone**: TODO
 

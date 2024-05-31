@@ -12,7 +12,7 @@ title: Langtree Elementary School
 
 **Students**: 300
 
-**Website**: https://www.htsdnj.org/Langtree
+**Website**: <https://www.htsdnj.org/Langtree>
 
 **Phone**: TODO
 

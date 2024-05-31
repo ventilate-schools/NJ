@@ -12,7 +12,7 @@ title: Princeton High School
 
 **Students**: 1600
 
-**Website**: https://www.princetonk12.org/PHS
+**Website**: <https://www.princetonk12.org/PHS>
 
 **Phone**: TODO
 

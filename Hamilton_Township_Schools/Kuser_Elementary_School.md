@@ -12,7 +12,7 @@ title: Kuser Elementary School
 
 **Students**: 350
 
-**Website**: https://www.htsdnj.org/Kuser
+**Website**: <https://www.htsdnj.org/Kuser>
 
 **Phone**: TODO
 

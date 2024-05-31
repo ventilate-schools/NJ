@@ -12,7 +12,7 @@ title: Washington Elementary School
 
 **Students**: 375
 
-**Website**: https://www.trenton.k12.nj.us/Washington.cfm
+**Website**: <https://www.trenton.k12.nj.us/Washington.cfm>
 
 **Phone**: TODO
 

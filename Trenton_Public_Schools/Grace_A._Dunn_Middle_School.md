@@ -12,7 +12,7 @@ title: Grace A. Dunn Middle School
 
 **Students**: 921
 
-**Website**: https://www.trenton.k12.nj.us/DunnMiddle.cfm
+**Website**: <https://www.trenton.k12.nj.us/DunnMiddle.cfm>
 
 **Phone**: TODO
 

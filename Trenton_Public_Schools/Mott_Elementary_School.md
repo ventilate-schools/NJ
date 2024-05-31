@@ -12,7 +12,7 @@ title: Mott Elementary School
 
 **Students**: 486
 
-**Website**: https://www.trenton.k12.nj.us/Mott.cfm
+**Website**: <https://www.trenton.k12.nj.us/Mott.cfm>
 
 **Phone**: TODO
 

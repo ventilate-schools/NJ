@@ -12,7 +12,7 @@ title: University Heights Elementary School
 
 **Students**: 450
 
-**Website**: https://www.htsdnj.org/UniversityHeights
+**Website**: <https://www.htsdnj.org/UniversityHeights>
 
 **Phone**: TODO
 

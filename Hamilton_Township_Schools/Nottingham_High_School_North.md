@@ -12,7 +12,7 @@ title: Nottingham High School North
 
 **Students**: 1300
 
-**Website**: https://www.htsdnj.org/North
+**Website**: <https://www.htsdnj.org/North>
 
 **Phone**: TODO
 

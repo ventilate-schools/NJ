@@ -12,7 +12,7 @@ title: Greenwood Elementary School
 
 **Students**: 450
 
-**Website**: https://www.htsdnj.org/Greenwood
+**Website**: <https://www.htsdnj.org/Greenwood>
 
 **Phone**: TODO
 

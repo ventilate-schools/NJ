@@ -12,7 +12,7 @@ title: Yardville Heights Elementary School
 
 **Students**: 390
 
-**Website**: https://www.htsdnj.org/YardvilleHeights
+**Website**: <https://www.htsdnj.org/YardvilleHeights>
 
 **Phone**: TODO
 

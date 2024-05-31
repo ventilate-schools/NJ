@@ -12,7 +12,7 @@ title: Hopewell Elementary School
 
 **Students**: 500
 
-**Website**: https://www.hvrsd.org/Hopewell
+**Website**: <https://www.hvrsd.org/Hopewell>
 
 **Phone**: TODO
 

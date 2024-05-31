@@ -12,7 +12,7 @@ title: Lore Elementary School
 
 **Students**: 600
 
-**Website**: https://www.ewing.k12.nj.us/Lore
+**Website**: <https://www.ewing.k12.nj.us/Lore>
 
 **Phone**: TODO
 

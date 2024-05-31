@@ -12,7 +12,7 @@ title: Ewing High School
 
 **Students**: 1100
 
-**Website**: https://www.ewing.k12.nj.us/EHS
+**Website**: <https://www.ewing.k12.nj.us/EHS>
 
 **Phone**: TODO
 

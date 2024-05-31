@@ -12,7 +12,7 @@ title: John Witherspoon Middle School
 
 **Students**: 800
 
-**Website**: https://www.princetonk12.org/JohnWitherspoon
+**Website**: <https://www.princetonk12.org/JohnWitherspoon>
 
 **Phone**: TODO
 

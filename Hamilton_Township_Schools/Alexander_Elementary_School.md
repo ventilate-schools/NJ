@@ -12,7 +12,7 @@ title: Alexander Elementary School
 
 **Students**: 500
 
-**Website**: https://www.htsdnj.org/Alexander
+**Website**: <https://www.htsdnj.org/Alexander>
 
 **Phone**: TODO
 

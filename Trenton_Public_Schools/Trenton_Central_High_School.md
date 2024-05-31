@@ -12,7 +12,7 @@ title: Trenton Central High School
 
 **Students**: 2089
 
-**Website**: https://www.trenton.k12.nj.us/TrentonCentral.cfm
+**Website**: <https://www.trenton.k12.nj.us/TrentonCentral.cfm>
 
 **Phone**: TODO
 

@@ -12,7 +12,7 @@ title: Melvin H. Kreps School
 
 **Students**: 900
 
-**Website**: https://www.ewrsd.org/Kreps
+**Website**: <https://www.ewrsd.org/Kreps>
 
 **Phone**: TODO
 

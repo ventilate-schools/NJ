@@ -12,7 +12,7 @@ title: Ethel McKnight Elementary School
 
 **Students**: 700
 
-**Website**: https://www.ewrsd.org/McKnight
+**Website**: <https://www.ewrsd.org/McKnight>
 
 **Phone**: TODO
 

@@ -12,7 +12,7 @@ title: Lawrence High School
 
 **Students**: 1100
 
-**Website**: https://www.ltps.org/LHS
+**Website**: <https://www.ltps.org/LHS>
 
 **Phone**: TODO
 

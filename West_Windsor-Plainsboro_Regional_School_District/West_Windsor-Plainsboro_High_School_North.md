@@ -12,7 +12,7 @@ title: West Windsor-Plainsboro High School North
 
 **Students**: 1500
 
-**Website**: https://www.west-windsor-plainsboro.k12.nj.us/north
+**Website**: <https://www.west-windsor-plainsboro.k12.nj.us/north>
 
 **Phone**: TODO
 

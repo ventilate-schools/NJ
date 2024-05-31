@@ -12,7 +12,7 @@ title: Lawrence Middle School
 
 **Students**: 900
 
-**Website**: https://www.ltps.org/LMS
+**Website**: <https://www.ltps.org/LMS>
 
 **Phone**: TODO
 

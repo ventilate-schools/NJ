@@ -12,7 +12,7 @@ title: Yardville Elementary School
 
 **Students**: 410
 
-**Website**: https://www.htsdnj.org/Yardville
+**Website**: <https://www.htsdnj.org/Yardville>
 
 **Phone**: TODO
 

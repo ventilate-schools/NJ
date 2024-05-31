@@ -12,7 +12,7 @@ title: Columbus Elementary School
 
 **Students**: 356
 
-**Website**: https://www.trenton.k12.nj.us/Columbus.cfm
+**Website**: <https://www.trenton.k12.nj.us/Columbus.cfm>
 
 **Phone**: TODO
 

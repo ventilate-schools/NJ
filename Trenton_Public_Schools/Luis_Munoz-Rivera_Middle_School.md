@@ -12,7 +12,7 @@ title: Luis Munoz-Rivera Middle School
 
 **Students**: 500
 
-**Website**: https://www.trenton.k12.nj.us/MunozRivera.cfm
+**Website**: <https://www.trenton.k12.nj.us/MunozRivera.cfm>
 
 **Phone**: TODO
 

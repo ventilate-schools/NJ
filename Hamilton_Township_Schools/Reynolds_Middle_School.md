@@ -12,7 +12,7 @@ title: Reynolds Middle School
 
 **Students**: 850
 
-**Website**: https://www.htsdnj.org/Reynolds
+**Website**: <https://www.htsdnj.org/Reynolds>
 
 **Phone**: TODO
 

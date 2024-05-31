@@ -12,7 +12,7 @@ title: Daylight/Twilight High School
 
 **Students**: 400
 
-**Website**: https://www.trenton.k12.nj.us/DaylightTwilight.cfm
+**Website**: <https://www.trenton.k12.nj.us/DaylightTwilight.cfm>
 
 **Phone**: TODO
 

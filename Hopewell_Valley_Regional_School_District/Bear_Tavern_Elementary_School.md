@@ -12,7 +12,7 @@ title: Bear Tavern Elementary School
 
 **Students**: 600
 
-**Website**: https://www.hvrsd.org/BearTavern
+**Website**: <https://www.hvrsd.org/BearTavern>
 
 **Phone**: TODO
 

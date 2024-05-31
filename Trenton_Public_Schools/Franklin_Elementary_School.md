@@ -12,7 +12,7 @@ title: Franklin Elementary School
 
 **Students**: 374
 
-**Website**: https://www.trenton.k12.nj.us/Franklin.cfm
+**Website**: <https://www.trenton.k12.nj.us/Franklin.cfm>
 
 **Phone**: TODO
 

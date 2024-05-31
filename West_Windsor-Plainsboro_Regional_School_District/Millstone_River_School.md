@@ -12,7 +12,7 @@ title: Millstone River School
 
 **Students**: 800
 
-**Website**: https://www.west-windsor-plainsboro.k12.nj.us/millstone
+**Website**: <https://www.west-windsor-plainsboro.k12.nj.us/millstone>
 
 **Phone**: TODO
 

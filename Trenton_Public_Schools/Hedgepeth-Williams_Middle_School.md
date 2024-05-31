@@ -12,7 +12,7 @@ title: Hedgepeth-Williams Middle School
 
 **Students**: 822
 
-**Website**: https://www.trenton.k12.nj.us/HedgepethWilliams.cfm
+**Website**: <https://www.trenton.k12.nj.us/HedgepethWilliams.cfm>
 
 **Phone**: TODO
 

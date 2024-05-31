@@ -12,7 +12,7 @@ title: Ben Franklin Elementary School
 
 **Students**: 600
 
-**Website**: https://www.ltps.org/BenFranklin
+**Website**: <https://www.ltps.org/BenFranklin>
 
 **Phone**: TODO
 

@@ -12,7 +12,7 @@ title: Wilson Elementary School
 
 **Students**: 466
 
-**Website**: https://www.trenton.k12.nj.us/Wilson.cfm
+**Website**: <https://www.trenton.k12.nj.us/Wilson.cfm>
 
 **Phone**: TODO
 
