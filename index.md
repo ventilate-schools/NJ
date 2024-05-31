@@ -27,14 +27,14 @@ Know that other diseases are airborne too: Measles (studies [1](https://www.ncbi
 
 # New Jersey School Districts:
 
-- [Trenton Public Schools](Trenton_Public_Schools/): 20 schools
-- [West Windsor-Plainsboro Regional School District](West_Windsor-Plainsboro_Regional_School_District/): 8 schools
-- [Ewing Public Schools](Ewing_Public_Schools/): 5 schools
-- [Hopewell Valley Regional School District](Hopewell_Valley_Regional_School_District/): 6 schools
-- [East Windsor Regional School District](East_Windsor_Regional_School_District/): 7 schools
-- [Hamilton Township Schools](Hamilton_Township_Schools/): 22 schools
-- [Lawrence Township Schools](Lawrence_Township_Schools/): 7 schools
-- [Princeton School District](Princeton_School_District/): 6 schools
+- [Mercer/Trenton Public Schools](Mercer/Trenton_Public_Schools/): 20 schools
+- [Mercer/West Windsor-Plainsboro Regional School District](Mercer/West_Windsor-Plainsboro_Regional_School_District/): 8 schools
+- [Mercer/Ewing Public Schools](Mercer/Ewing_Public_Schools/): 5 schools
+- [Mercer/Hopewell Valley Regional School District](Mercer/Hopewell_Valley_Regional_School_District/): 6 schools
+- [Mercer/East Windsor Regional School District](Mercer/East_Windsor_Regional_School_District/): 7 schools
+- [Mercer/Hamilton Township Schools](Mercer/Hamilton_Township_Schools/): 22 schools
+- [Mercer/Lawrence Township Schools](Mercer/Lawrence_Township_Schools/): 7 schools
+- [Mercer/Princeton School District](Mercer/Princeton_School_District/): 6 schools
 
 
 # Site ownership

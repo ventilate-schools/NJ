@@ -141,9 +141,10 @@ for district_name, schools_list in districts:
 # Function to generate markdown files
 def generate_markdown_by_index(row):
     # Simplify the school name for the directory and file
-    district_name_simple = row['district_name'].replace(" ", "_").replace("/", "_").replace("\\", "_")
+    district_name_simple = "Mercer/" + row['district_name'].replace(" ", "_").replace("/", "_").replace("\\", "_")
     school_name_simple = row['school_name'].replace(" ", "_").replace("/", "_").replace("\\", "_")
     path = os.path.join(output_dir, district_name_simple)
+    print(path)
     os.makedirs(path, exist_ok=True)
 
     # Filename for the markdown
@@ -184,7 +185,7 @@ def create_area_and_root_index():
     districts_dict = {}
 
     for index, row in schools_data.iterrows():
-        district_name_simple = row['district_name'].replace(" ", "_").replace("/", "_").replace("\\", "_")
+        district_name_simple = "Mercer/" + row['district_name'].replace(" ", "_").replace("/", "_").replace("\\", "_")
         school_name_simple = row['school_name'].replace(" ", "_").replace("/", "_").replace("\\", "_")
 
         # Check if the district already exists in the dictionary
