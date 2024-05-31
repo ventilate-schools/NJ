@@ -27,18 +27,19 @@ Know that other diseases are airborne too: Measles (studies [1](https://www.ncbi
 
 # New Jersey School Districts:
 
-- [Mercer/Trenton Public Schools](Mercer/Trenton_Public_Schools/): 20 schools
-- [Mercer/West Windsor-Plainsboro Regional School District](Mercer/West_Windsor-Plainsboro_Regional_School_District/): 8 schools
-- [Mercer/Ewing Public Schools](Mercer/Ewing_Public_Schools/): 5 schools
-- [Mercer/Hopewell Valley Regional School District](Mercer/Hopewell_Valley_Regional_School_District/): 6 schools
-- [Mercer/East Windsor Regional School District](Mercer/East_Windsor_Regional_School_District/): 7 schools
-- [Mercer/Hamilton Township Schools](Mercer/Hamilton_Township_Schools/): 22 schools
-- [Mercer/Lawrence Township Schools](Mercer/Lawrence_Township_Schools/): 7 schools
-- [Mercer/Princeton School District](Mercer/Princeton_School_District/): 6 schools
+## Mercer County
 
+- [Trenton Public Schools](Mercer/Trenton_Public_Schools/): 20 schools
+- [West Windsor-Plainsboro Regional School District](Mercer/West_Windsor-Plainsboro_Regional_School_District/): 8 schools
+- [Ewing Public Schools](Mercer/Ewing_Public_Schools/): 5 schools
+- [Hopewell Valley Regional School District](Mercer/Hopewell_Valley_Regional_School_District/): 6 schools
+- [East Windsor Regional School District](Mercer/East_Windsor_Regional_School_District/): 7 schools
+- [Hamilton Township Schools](Mercer/Hamilton_Township_Schools/): 22 schools
+- [Lawrence Township Schools](Mercer/Lawrence_Township_Schools/): 7 schools
+- [Princeton School District](Mercer/Princeton_School_District/): 6 schools
 
 # Site ownership
 
 This site is edited by volunteers who're interested in accelerating the work to complete the adequate ventilation of New Jersey schools. This effort was not commissioned by education authorities or government.
 
-[Edit this page](https://github.com/ventilate-schools/NJ/edit/main/index.md). See also [rules for contribution](./contribution_rules/)
+[Edit this page](https://github.com/ventilate-schools/NJ/edit/main/index.md). See also [rules for contribution](../contribution_rules/)
