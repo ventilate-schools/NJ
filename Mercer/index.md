@@ -4,9 +4,9 @@ title: Schools in Mercer County, New Jersey and their ventilation status
 
 # Navigation
 
-[[All countries/states/provinces]](..)
+[[All countries/states/provinces]](../..) > [[All New Jersey Counties]](..)
 
-# Purpose of site
+# Ventilation grade breakdown for schools in Mercer County:
 
 {% include_relative grade.html %}
 
