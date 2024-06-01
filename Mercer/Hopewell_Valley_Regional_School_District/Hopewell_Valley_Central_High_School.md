@@ -4,7 +4,7 @@ title: Hopewell Valley Central High School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)
+[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All In Mercer County]](../..) > [[All schools in district]](..)
 
 # Hopewell Valley Central High School (Hopewell Valley Regional School District)
 

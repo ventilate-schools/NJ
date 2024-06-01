@@ -154,7 +154,7 @@ def generate_markdown_by_index(row):
     with open(file_path, 'w') as file:
         file.write(f"---\nlayout: page\ntitle: {row['school_name']}\n---\n")  # School Name
         file.write(
-            f"# Navigation\n\n[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)\n\n")
+            f"# Navigation\n\n[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All In Mercer County]](../..) > [[All schools in district]](..)\n\n")
 
         file.write(f"# {row['school_name']} ({row['district_name']})\n\n")  # School Name and area as header
 

@@ -4,7 +4,7 @@ title: Columbus Elementary School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)
+[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All In Mercer County]](../..) > [[All schools in district]](..)
 
 # Columbus Elementary School (Trenton Public Schools)
 
