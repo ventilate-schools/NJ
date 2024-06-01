@@ -4,7 +4,7 @@ title: Lawrence Middle School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All New Jersey Counties]](../..) > [[All schools in district]](..)
+[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)
 
 # Lawrence Middle School (Lawrence Township Schools)
 

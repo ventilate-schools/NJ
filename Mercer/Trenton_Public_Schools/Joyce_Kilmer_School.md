@@ -4,7 +4,7 @@ title: Joyce Kilmer School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All New Jersey Counties]](../..) > [[All schools in district]](..)
+[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)
 
 # Joyce Kilmer School (Trenton Public Schools)
 

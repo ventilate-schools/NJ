@@ -4,7 +4,7 @@ title: Hopewell Elementary School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All New Jersey Counties]](../..) > [[All schools in district]](..)
+[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)
 
 # Hopewell Elementary School (Hopewell Valley Regional School District)
 

@@ -4,7 +4,7 @@ title: Dr. Martin Luther King Jr. Middle School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All New Jersey Counties]](../..) > [[All schools in district]](..)
+[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)
 
 # Dr. Martin Luther King Jr. Middle School (Trenton Public Schools)
 

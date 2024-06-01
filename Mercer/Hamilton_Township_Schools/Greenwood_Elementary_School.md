@@ -4,7 +4,7 @@ title: Greenwood Elementary School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All New Jersey Counties]](../..) > [[All schools in district]](..)
+[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)
 
 # Greenwood Elementary School (Hamilton Township Schools)
 

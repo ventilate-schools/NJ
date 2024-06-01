@@ -4,7 +4,7 @@ title: Community Middle School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All New Jersey Counties]](../..) > [[All schools in district]](..)
+[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)
 
 # Community Middle School (West Windsor-Plainsboro Regional School District)
 

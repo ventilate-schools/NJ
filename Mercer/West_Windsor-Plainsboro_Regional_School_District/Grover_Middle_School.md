@@ -4,7 +4,7 @@ title: Grover Middle School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All New Jersey Counties]](../..) > [[All schools in district]](..)
+[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)
 
 # Grover Middle School (West Windsor-Plainsboro Regional School District)
 

@@ -4,7 +4,7 @@ title: John Witherspoon Middle School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All New Jersey Counties]](../..) > [[All schools in district]](..)
+[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)
 
 # John Witherspoon Middle School (Princeton School District)
 

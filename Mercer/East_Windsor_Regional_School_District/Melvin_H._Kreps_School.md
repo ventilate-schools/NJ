@@ -4,7 +4,7 @@ title: Melvin H. Kreps School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All New Jersey Counties]](../..) > [[All schools in district]](..)
+[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)
 
 # Melvin H. Kreps School (East Windsor Regional School District)
 

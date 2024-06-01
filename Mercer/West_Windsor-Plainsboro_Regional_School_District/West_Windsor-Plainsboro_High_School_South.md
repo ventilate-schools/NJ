@@ -4,7 +4,7 @@ title: West Windsor-Plainsboro High School South
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All New Jersey Counties]](../..) > [[All schools in district]](..)
+[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)
 
 # West Windsor-Plainsboro High School South (West Windsor-Plainsboro Regional School District)
 

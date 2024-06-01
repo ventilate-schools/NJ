@@ -4,7 +4,7 @@ title: Ethel McKnight Elementary School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All New Jersey Counties]](../..) > [[All schools in district]](..)
+[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)
 
 # Ethel McKnight Elementary School (East Windsor Regional School District)
 

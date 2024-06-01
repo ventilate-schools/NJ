@@ -4,7 +4,7 @@ title: Mercerville Elementary School
 ---
 # Navigation
 
-[[All countries/states/provinces]](../../..) > [[All New Jersey Counties]](../..) > [[All schools in district]](..)
+[[All countries/states/provinces]](../../../..) > [[All New Jersey Counties]](../../..) > [[All schools in district]](..)
 
 # Mercerville Elementary School (Hamilton Township Schools)
 
